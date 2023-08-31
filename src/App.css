@@ -1,0 +1,14 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+.Expenselist{
+  display:grid;
+  grid-template-columns:1fr 4fr 1fr;
+  background-color:black;
+  color:white;
+  align-items:center;
+  border:solid 3px #eaecf1;  
+  
+}
